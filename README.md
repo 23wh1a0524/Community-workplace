@@ -173,11 +173,7 @@ Main endpoints:
 
 ## Demo Video
 
-Add your project execution video link here after uploading it:
-
-```text
-Demo Video: <https://drive.google.com/file/d/1uv36SEdT7JdGg7vtnWfbYyxWY6gr_kT2/view?usp=drive_link>
-```
+[Watch Project Execution Video](https://drive.google.com/file/d/1uv36SEdT7JdGg7vtnWfbYyxWY6gr_kT2/view?usp=drive_link)
 
 ## Future Improvements
 
